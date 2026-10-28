@@ -1,27 +1,42 @@
-## Hi there, I'm Pardis👋
+<h1 align="center">Hi there, I'm Pardis 👋</h1>
+<h3 align="center">A passionate Python Developer & Aspiring Machine Learning Enthusiast</h3>
 
-<!--
-**aghamohammadrafipardis-tech/aghamohammadrafipardis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🎓 Computer Engineering Student
-- 💻 Currently working on Python Projects
-- 📚 Passionate about learning new technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aghamohammadrafipardis-tech&label=Profile%20views&color=0e75b6&style=flat" alt="aghamohammadrafipardis-tech" />
+</p>
 
 ---
 
-### 🛠 Languages and Tools
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Python** projects and exploring new technologies.
+- 🌱 I’m currently learning **Machine Learning** and **Git/GitHub** for better project management.
+- 💬 Ask me about **Python** and **CLI applications**.
+- 📫 How to reach me: Let's connect on LinkedIn!
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🌐 Connect with me
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pardis-aghamohammadrafi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pardis Aghamohammadrafi LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux,tensorflow,sklearn" />
+  </a>
+</p>
+
+### 🚀 My Projects
+- 📞 **[Phone Book](https://github.com/aghamohammadrafipardis-tech/phone-book)**: A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aghamohammadrafipardis-tech&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
-
-### 📊 GitHub Stats
-
-![Pari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
-
----
+<p align="center"> 
+  <i>Thanks for visiting my profile! ⭐</i> 
+</p>
