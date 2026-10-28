@@ -34,9 +34,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
+
 ### 🚀 My Projects
 - 📞 **[Phone Book](https://github.com/aghamohammadrafipardis-tech/phone-book)**: A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
-
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aghamohammadrafipardis-tech&show_icons=true&theme=radical" alt="GitHub Stats" />
