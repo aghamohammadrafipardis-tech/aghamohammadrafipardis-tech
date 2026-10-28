@@ -23,9 +23,16 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
+  <!-- Python, Git, GitHub, Jupyter (Modern flat style) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,pandas,numpy,matplotlib,sklearn,jupyter" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,jupyter" alt="Tech Stack" />
   </a>
+  <br><br>
+  <!-- Data Science & ML Libraries (Official logos and colors) -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 ### 🚀 My Projects
 - 📞 **[Phone Book](https://github.com/aghamohammadrafipardis-tech/phone-book)**: A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
