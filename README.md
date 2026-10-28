@@ -24,10 +24,9 @@
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,vscode,linux,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,pandas,numpy,matplotlib,sklearn,jupyter" />
   </a>
 </p>
-
 ### 🚀 My Projects
 - 📞 **[Phone Book](https://github.com/aghamohammadrafipardis-tech/phone-book)**: A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
 
