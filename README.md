@@ -27,7 +27,7 @@
 <p align="center">
   <!-- Python, Git, GitHub, Jupyter (Modern flat style) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,jupyter,c#" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,jupyter,cs" alt="Tech Stack" />
   </a>
   <br><br>
   <!-- Data Science & ML Libraries (Official logos and colors) -->
