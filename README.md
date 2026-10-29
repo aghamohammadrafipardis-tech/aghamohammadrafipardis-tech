@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pardis 👋</h1>
+<h1 align="center">Hi there, I'm Pardis Aghamohammadrafi👋</h1>
 <h3 align="center">A passionate Python Developer & Aspiring Machine Learning Enthusiast</h3>
 
 <p align="center">
