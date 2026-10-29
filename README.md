@@ -8,10 +8,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Python** projects and exploring new technologies.
+- 🎓 Computer Engineering student
+- 💻 I’m currently working on **Python** projects and exploring new technologies.
 - 🌱 I’m currently learning **Machine Learning** and **Git/GitHub** for better project management.
 - 💬 Ask me about **Python** and **CLI applications**.
 - 📫 How to reach me: Let's connect on LinkedIn!
+- 📍 Based in Isfahan, Iran
 
 ### 🌐 Connect with me
 <p align="left">
