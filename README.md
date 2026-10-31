@@ -39,9 +39,12 @@
 
 ### 🚀 My Projects
 - 📞 **[Phone Book](https://github.com/aghamohammadrafipardis-tech/phone-book)**: A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
+- 🧮 [Windows Forms Calculator](https://github.com/aghamohammadrafipardis-tech/calculator): A simple calculator application built with C# and Windows Forms.
 ### 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghamohammadrafipardis-tech&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aghamohammadrafipardis-tech&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghamohammadrafipardis-tech&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 ---
