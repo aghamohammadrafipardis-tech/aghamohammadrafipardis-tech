@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering student.
 - 💻 I’m currently working on **Python** projects and exploring new technologies.
 - 🌱 I’m currently learning **Machine Learning** and **Git/GitHub** for better project management.
 - 💬 Ask me about **Python** and **CLI applications**.
