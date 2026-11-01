@@ -21,6 +21,11 @@
   <a href="https://www.linkedin.com/in/pardis-aghamohammadrafi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pardis Aghamohammadrafi LinkedIn" height="30" width="40" />
   </a>
+  
+  <!-- Email -->
+  <a href="mailto:aghamohammadrafipardis@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 ### 🛠️ Tech Stack & Tools
