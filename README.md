@@ -18,7 +18,7 @@
 ### 🌐 Connect with me
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/pardis-aghamohammadrafi" target="blank">
+  <a href="https://www.linkedin.com/in/pardis-aghamohammadrafi" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pardis Aghamohammadrafi LinkedIn" height="30" width="40" />
   </a>
   
