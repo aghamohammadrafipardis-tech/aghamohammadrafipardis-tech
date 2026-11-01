@@ -57,5 +57,3 @@
 <p align="center"> 
   <i>Thanks for visiting my profile! ⭐</i> 
 </p>
-  <i>Thanks for visiting my profile! ⭐</i> 
-</p>
