@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pardis Aghamohammadrafi👋</h1>
-<h3 align="center">A passionate Python Developer & Aspiring Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Python Developer | Exploring the Frontiers of Machine Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aghamohammadrafipardis-tech&label=Profile%20views&color=0e75b6&style=flat" alt="aghamohammadrafipardis-tech" />
@@ -43,9 +43,9 @@
 </p>
 
 ### 🚀 My Projects
-- 📞 [Phone book](https://github.com/aghamohammadrafipardis-tech/phone-book): A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
-- 🧮 [Windows Forms Calculator](https://github.com/aghamohammadrafipardis-tech/calculator): A simple calculator application built with C# and Windows Forms.
-- 📚 [Personal Library Manager](https://github.com/aghamohammadrafipardis-tech/Personal-Library-Manager): A personal library management system built with C# and Windows Forms, featuring book CRUD, advanced search, and statistical reports.
+- 📞 [Phone book](https://github.com/aghamohammadrafipardis-tech/phone-book) : A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
+- 🧮 [Windows Forms Calculator](https://github.com/aghamohammadrafipardis-tech/calculator) : A simple calculator application built with C# and Windows Forms.
+- 📚 [Personal Library Manager](https://github.com/aghamohammadrafipardis-tech/Personal-Library-Manager) : A personal library management system built with C# and Windows Forms, featuring book CRUD, advanced search, and statistical reports.
 ### 📊 GitHub Overview
 
 <p align="center">
