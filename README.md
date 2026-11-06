@@ -44,6 +44,7 @@
 
 ### 🚀 My Projects
 - 📞 [Phone book](https://github.com/aghamohammadrafipardis-tech/phone-book) : A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
+- 💰 [Expense Manager](https://github.com/aghamohammadrafipardis-tech/expense-manager) : A simple and interactive command-line (CLI) expense tracker built with Python and Pandas, featuring category reports and persistent CSV storage.
 - 🧮 [Windows Forms Calculator](https://github.com/aghamohammadrafipardis-tech/calculator) : A simple calculator application built with C# and Windows Forms.
 - 📚 [Personal Library Manager](https://github.com/aghamohammadrafipardis-tech/Personal-Library-Manager) : A personal library management system built with C# and Windows Forms, featuring book CRUD, advanced search, and statistical reports.
 ### 📊 GitHub Overview
