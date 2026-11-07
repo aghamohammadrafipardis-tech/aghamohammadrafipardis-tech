@@ -51,10 +51,9 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aghamohammadrafipardis-tech&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aghamohammadrafipardis-tech&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aghamohammadrafipardis-tech&theme=tokyonight&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aghamohammadrafipardis-tech&theme=tokyonight&v=2" alt="Top Languages" width="48%" />
 </p>
-
 ---
 <p align="center"> 
   <i>Thanks for visiting my profile! ⭐</i> 
