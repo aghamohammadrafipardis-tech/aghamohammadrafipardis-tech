@@ -42,11 +42,18 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
+
 ### 🚀 My Projects
-- 📞 [Phone book](https://github.com/aghamohammadrafipardis-tech/phone-book) : A simple and interactive command-line (CLI) application written in Python for managing contacts and phone numbers.
-- 💰 [Expense Manager](https://github.com/aghamohammadrafipardis-tech/expense-manager) : A simple and interactive command-line (CLI) expense tracker built with Python and Pandas, featuring category reports and persistent CSV storage.
-- 🧮 [Windows Forms Calculator](https://github.com/aghamohammadrafipardis-tech/calculator) : A simple calculator application built with C# and Windows Forms.
-- 📚 [Personal Library Manager](https://github.com/aghamohammadrafipardis-tech/Personal-Library-Manager) : A personal library management system built with C# and Windows Forms, featuring book CRUD, advanced search, and statistical reports.
+
+- 🏠 [Tehran House Price Prediction](YOUR_HOUSE_PRICE_REPOSITORY_LINK): A Machine Learning project focused on predicting residential property prices in Tehran using Python, Pandas, NumPy, and Scikit-learn, featuring data preprocessing, exploratory data analysis (EDA), feature engineering, and Random Forest Regression.
+
+- 📞 [Phone Book](https://github.com/aghamohammadrafipardis-tech/phone-book): A simple and interactive command-line (CLI) application built with Python for managing contacts and phone numbers.
+
+- 💰 [Expense Manager](https://github.com/aghamohammadrafipardis-tech/expense-manager): A Python-based command-line (CLI) expense tracker built with Pandas, featuring expense categorization, financial reports, and persistent CSV storage.
+
+- 🧮 [Windows Forms Calculator](https://github.com/aghamohammadrafipardis-tech/calculator): A desktop calculator application developed using C# and Windows Forms, supporting basic mathematical operations through a graphical user interface.
+
+- 📚 [Personal Library Manager](https://github.com/aghamohammadrafipardis-tech/Personal-Library-Manager): A personal library management system developed using C# and Windows Forms, featuring book CRUD operations, advanced search, and statistical reports.
 
 ### 📊 GitHub Overview
 
